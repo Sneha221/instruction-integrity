@@ -1,4 +1,4 @@
-# Instruction Integrity Lab
+# Instruction Integrity
 
 A small, reproducible evaluation of prompt injection, input-side filters, and instruction priority using a local Ollama model.
 
